@@ -1,7 +1,6 @@
 import os
 import logging
 import urllib
-from botocore.exceptions import ClientError
 
 def slack_basic(channel_id,message):
     # bot token
