@@ -1,7 +1,7 @@
 import logging
 import json
 
-def sendgrid_email(recepient,message):
+def twilio_sms(recepient,message):
     if recepient & message:
         //do nothing
     else:
