@@ -5,7 +5,7 @@ Long long back when few of my collegues started with thier first startup, they a
 I Wanted to share with you all the way i do it. I wont be able to provide you the exact code copy which may allow attackers to take advantage in few scenarios, but ill be providing code snippets that are ready to work but needs customization for a rich experience.
 
 
-## Features/Advantages:
+### Features/Advantages:
 - Low-Cost
 - Multi-Channel
 - Basic and Easy to understand
@@ -14,7 +14,7 @@ I Wanted to share with you all the way i do it. I wont be able to provide you th
 - Beginer friendly
 - Easy to integrate with almost any CRM
 
-Platform integrations supported right now:
+### Platform integrations supported right now:
 - Sendgrid
 - Twilio
 - Slack
@@ -22,12 +22,12 @@ Platform integrations supported right now:
 - Azure Communications
 - Azure Notifications Hub
 
-## How to setup
+### How to setup
 The code samples are written in python keeping in mind that these can be deployed to azure funtions.
 
-## Contribute
+### Contribute
 Contributions are most welcome, at last we are engineers... we are born to solve problems. Lets do it together making an impact
 - **Note:** Please try to create an issue before making a pull request, so that others can know who is working on what. we can also discuss on features which you wish to see in future.
 
-## Code license
+### Code license
 I would like to keep this a complete open source, you are free to use, modify to improvise it. The code, platforms and tools we are having today are someday developped by developers like us. Lets give back to society from what we have.
