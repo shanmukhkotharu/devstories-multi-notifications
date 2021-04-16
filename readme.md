@@ -24,7 +24,7 @@ wanted to share with you all the way I implement it. I won't be able to provide 
 
 ### How to setup
 The code samples are written in python keeping in mind that these can be deployed to azure functions.
-You can find my complete blog on my [medium page](https://shanmukhkotharu.medium.com/cost-effective-multi-channel-notification-system-easy-to-implement-azure-best-practices-ffb6916b023b "Shanmukh's blog on Medium" target="_blank")
+You can find my complete blog on my [medium page](https://shanmukhkotharu.medium.com/cost-effective-multi-channel-notification-system-easy-to-implement-azure-best-practices-ffb6916b023b "Shanmukh's blog on Medium"){:target="_blank" rel="noopener"}
 
 ### Contribute
 Contributions are most welcome, at last we are engineers... we are born to solve problems. Let's do it together making an impact
